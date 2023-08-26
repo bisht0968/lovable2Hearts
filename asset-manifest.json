@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/drophipping-website/static/css/main.3d8f2dfb.css",
+    "main.js": "/drophipping-website/static/js/main.3574769f.js",
+    "static/media/Map Contact Us.png": "/drophipping-website/static/media/Map Contact Us.5042f6e6236421da7c0d.png",
+    "static/media/couple symbol.jpg": "/drophipping-website/static/media/couple symbol.1a1d4036691e2d8e8312.jpg",
+    "static/media/Home Banner.avif": "/drophipping-website/static/media/Home Banner.0652cc8c3064b20ec38c.avif",
+    "static/media/error_dog_png-removebg-preview.png": "/drophipping-website/static/media/error_dog_png-removebg-preview.16844b19a9204d6ba58d.png",
+    "index.html": "/drophipping-website/index.html",
+    "main.3d8f2dfb.css.map": "/drophipping-website/static/css/main.3d8f2dfb.css.map",
+    "main.3574769f.js.map": "/drophipping-website/static/js/main.3574769f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3d8f2dfb.css",
+    "static/js/main.3574769f.js"
+  ]
+}
